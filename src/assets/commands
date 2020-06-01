@@ -1,0 +1,11 @@
+npm i ngx-bootstrap --save
+npm i bootstrap@3 --save
+open. angular-cli.json file and specify the path to the bootstrap stylesheet (bootstrap.min.css)
+"styles": [
+    "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+]
+
+
+fake api::
+npm install -g json-server
+json-server --watch db.json

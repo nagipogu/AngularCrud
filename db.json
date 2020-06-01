@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Susan g",
+      "gender": "Female",
+      "contactPreference": "Email",
+      "email": "Susan@gmail.com",
+      "dateOfBirth": "1998/10/25",
+      "phoneNumber": 999998888,
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/avatar.png"
+    },
+    {
+      "id": "2",
+      "name": "Mark",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "email": "mark@gmail.com",
+      "dateOfBirth": "1998/10/25",
+      "phoneNumber": 999998888,
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/avatar.png"
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "email": "Jhon@gmail.com",
+      "dateOfBirth": "1998/10/25",
+      "phoneNumber": 999998888,
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/avatar.png"
+    },
+    {
+      "id": "4",
+      "name": "David",
+      "gender": "Male",
+      "email": "david@gamail.com",
+      "phoneNumber": 2432487234,
+      "contactPreference": "Phone",
+      "dateOfBirth": "2018-12-15T18:30:00.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/profile.png"
+    },
+    {
+      "id": "5",
+      "name": "Haritha",
+      "gender": "Female",
+      "email": "hari@gmail.com",
+      "phoneNumber": 89417237,
+      "contactPreference": "Phone",
+      "dateOfBirth": "2018-12-17T18:30:00.000Z",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/images/student.png"
+    }
+  ]
+}
